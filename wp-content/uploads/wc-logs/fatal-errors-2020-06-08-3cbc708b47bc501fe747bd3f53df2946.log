@@ -1,0 +1,20 @@
+2020-06-08T04:26:55+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wp-ecommerce\wp-admin\includes\class-wp-filesystem-direct.php on line 81
+
+2020-06-08T13:44:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wp-ecommerce\wp-admin\includes\class-wp-privacy-policy-content.php on line 727
+
+2020-06-08T13:44:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wp-ecommerce\wp-admin\includes\class-wp-site-icon.php on line 234
+
+2020-06-08T13:50:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wp-ecommerce\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-api-keys.php on line 274
+
+2020-06-08T13:51:38+00:00 CRITICAL Uncaught TypeError: Argument 2 passed to Elementor\TemplateLibrary\Source_Local::on_save_post() must be an instance of WP_Post, instance of stdClass given, called in C:\xampp\htdocs\wp-ecommerce\wp-includes\class-wp-hook.php on line 289 and defined in C:\xampp\htdocs\wp-ecommerce\wp-content\plugins\elementor\includes\template-library\sources\local.php:1081
+Stack trace:
+#0 C:\xampp\htdocs\wp-ecommerce\wp-includes\class-wp-hook.php(289): Elementor\TemplateLibrary\Source_Local->on_save_post(144, Object(stdClass))
+#1 C:\xampp\htdocs\wp-ecommerce\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wp-ecommerce\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wp-ecommerce\wp-includes\post.php(4153): do_action('save_post', 144, Object(stdClass), true)
+#4 C:\xampp\htdocs\wp-ecommerce\wp-includes\post.php(4244): wp_insert_post(Array, false)
+#5 C:\xampp\htdocs\wp-ecommerce\wp-content\plugins\elementor\includes\db.php(331): wp_update_post(Array)
+#6 C:\xampp in C:\xampp\htdocs\wp-ecommerce\wp-content\plugins\elementor\includes\template-library\sources\local.php on line 1081
+
+2020-06-08T22:30:58+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wp-ecommerce\wp-content\plugins\ocean-extra\includes\panel\demos.php on line 11
+

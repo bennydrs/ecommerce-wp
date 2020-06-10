@@ -1,0 +1,24 @@
+2020-06-09T02:29:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wp-ecommerce\wp-content\plugins\ocean-extra\includes\freemius\includes\entities\class-fs-plugin-tag.php on line 9
+
+2020-06-09T02:29:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wp-ecommerce\wp-content\plugins\elementor\modules\wp-cli\module.php on line 8
+
+2020-06-09T10:03:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wp-ecommerce\wp-content\plugins\ocean-extra\includes\freemius\includes\class-freemius.php on line 8
+
+2020-06-09T10:05:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wp-ecommerce\wp-content\plugins\elementor\core\settings\editor-preferences\model.php on line 8
+
+2020-06-09T10:06:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wp-ecommerce\wp-includes\wp-db.php on line 2024
+
+2020-06-09T10:06:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wp-ecommerce\wp-includes\Requests\Transport\cURL.php on line 163
+
+2020-06-09T10:06:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wp-ecommerce\wp-includes\Requests\Transport\cURL.php on line 163
+
+2020-06-09T10:06:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wp-ecommerce\wp-includes\Requests\Transport\cURL.php on line 163
+
+2020-06-09T10:06:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wp-ecommerce\wp-includes\Requests\Transport\cURL.php on line 163
+
+2020-06-09T10:06:08+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wp-ecommerce\wp-includes\Requests\Transport\cURL.php on line 163
+
+2020-06-09T13:54:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wp-ecommerce\wp-admin\includes\class-wp-screen.php on line 1352
+
+2020-06-09T13:54:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wp-ecommerce\wp-admin\includes\user.php on line 592
+
